@@ -1,0 +1,25 @@
+{
+    "name": "hari suthan",
+    "dob": "12/04/200",
+    "skillset": [
+        "html",
+        "css",
+        "bootstrap",
+        "javascript",
+        "react",
+        "sql",
+        "mongodb",
+        "node"
+    ],
+    "studeis": [
+        {
+            "SSLC in": "Veveaham.boys.hr.sec.school year 2014-2015"
+        },
+        {
+            "HSC in": "Velan.vikhass.matric.hr.sec.schoolStarted my computer science career , year 2015-2015"
+        },
+        {
+            "BE in": "Nandha.enginnering.college continued as computer science student , year 2017-2021"
+        }
+    ]
+}
